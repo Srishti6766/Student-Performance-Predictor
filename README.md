@@ -3,7 +3,7 @@
 A machine learning project that predicts student academic performance based on various factors such as study hours, attendance, and previous grades. The project was implemented in Google Colab using Python libraries such as Scikit-learn, Pandas, and Matplotlib.
 
 ## Project Duration **:**
-**Dec 2023 – Jan 2024**
+**Nov 2023 – Dec 2023**
 
 ## Tech Stack **:**
 - Python
